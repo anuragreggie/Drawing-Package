@@ -1,9 +1,9 @@
 # Vector Drawing Package Using Java 
 | Contents                                   |
 |--------------------------------------------|
-| - Functionality               |
-| - Demonstration of program                |
-| - How to run            |
+| - Functionality                            |
+| - Demonstration of program                 |
+| - How to run                               |
 
 ## Functionality
 - Allows user to draw lines, squares, rectangles, circles, ellipses or triangles.
