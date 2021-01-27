@@ -14,6 +14,8 @@
 ## Demonstration of program  
 <img align="left" alt = "Program demonstration" width="350px" src="https://i.imgflip.com/4nctab.gif" />
 
+<br>
+
 ## How to  compile and run in terminal
 - First make sure you are in the `src` folder.
 - Now type `javac Main.java` to compile and then `java Main` to run.
